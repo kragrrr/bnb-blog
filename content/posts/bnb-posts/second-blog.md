@@ -1,6 +1,6 @@
 ---
 title: our second blog
-date: 2024-12-1
+date: 2024-12-01
 draft: false
 tags:
   - hey

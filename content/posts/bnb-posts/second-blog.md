@@ -1,8 +1,10 @@
 ---
-title: 'New post'
-description: 'Hey there! This is a new post.'
-pubDate: 'Dec 1 2024'
-heroImage: '/blog-placeholder-3.jpg'
+title: our second blog
+date: 2024-12-1
+draft: false
+tags:
+  - hey
+  - python
 ---
 
 Hey there! This is a new post. 

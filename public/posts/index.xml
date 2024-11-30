@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on </title>
-    <link>/posts/</link>
+    <link>//localhost:1313/posts/</link>
     <description>Recent content in Posts on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>our first blog</title>
-      <link>/posts/bnb-posts/our-first-blog/</link>
+      <link>//localhost:1313/posts/bnb-posts/our-first-blog/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/posts/bnb-posts/our-first-blog/</guid>
+      <guid>//localhost:1313/posts/bnb-posts/our-first-blog/</guid>
       <description>&lt;p&gt;beep boop. beep boop.&lt;/p&gt;
 &lt;p&gt;testing&amp;hellip; 1, 2, 3&lt;/p&gt;
 &lt;p&gt;launch! 🚀&lt;/p&gt;</description>

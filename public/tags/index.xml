@@ -2,27 +2,27 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on </title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hey</title>
-      <link>/tags/hey/</link>
+      <link>//localhost:1313/tags/hey/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hey/</guid>
+      <guid>//localhost:1313/tags/hey/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
       <title>Hola</title>
-      <link>/tags/hola/</link>
+      <link>//localhost:1313/tags/hola/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hola/</guid>
+      <guid>//localhost:1313/tags/hola/</guid>
       <description></description>
       <content></content>
     </item>

@@ -7,4 +7,4 @@ tags:
   - ai
   - blog
 ---
-![[Screenshot 2024-10-09 at 10.45.28AM.png]]
+![Image Description](/attachments/Screenshot%202024-10-09%20at%2010.45.28AM.png)

@@ -7,7 +7,7 @@ cd "$SCRIPT_DIR"
 
 # Set variables for Obsidian to Hugo copy
 sourcePath="/Users/krish/Documents/Obsidian Vault/posts"
-destinationPath="/Users/krish/Development/bnb-blog/content/posts"
+destinationPath="/Users/krish/Development/bnb-blog/content/"
 
 # Set GitHub Repo
 myrepo="git@github.com:kragrrr/bnb-blog.git"

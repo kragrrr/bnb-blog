@@ -9,10 +9,10 @@
     <lastBuildDate>Fri, 29 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/hola/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>our first blog</title>
-      <link>//localhost:1313/posts/bnb-posts/our-first-blog/</link>
+      <link>//localhost:1313/posts/our-first-blog/</link>
       <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/posts/bnb-posts/our-first-blog/</guid>
+      <guid>//localhost:1313/posts/our-first-blog/</guid>
       <description>&lt;p&gt;beep boop. beep boop.&lt;/p&gt;
 &lt;p&gt;testing&amp;hellip; 1, 2, 3&lt;/p&gt;
 &lt;p&gt;launch! 🚀&lt;/p&gt;</description>

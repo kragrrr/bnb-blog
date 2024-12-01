@@ -6,4 +6,4 @@ tags:
   - hey
   - photo
 ---
-!![Image Description](/images/pngtree-skeleton-playing-guitar-halloween-skeleton-playing-guitar-illustration-generative-ai-png-image_11578828.png)
+![[Screenshot 2024-10-09 at 10.45.28AM.png]]

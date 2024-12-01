@@ -22,7 +22,7 @@ for filename in os.listdir(posts_dir):
         for image in images:
             # Prepare the Markdown-compatible link with %20 replacing spaces
             markdown_image = f"[[{image}]]"
-            content = content.replace(markdown_image, f"![Image Description](/images/{image})")
+            content = content.replace(markdown_image, f"![Image Description](/attachments/{image.replace(' ', '%20')})")
             
             # Step 4: Copy the image to the Hugo static/images directory if it exists
             image_source = os.path.join(attachments_dir, image)

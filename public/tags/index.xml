@@ -8,41 +8,31 @@
     <language>en</language>
     <lastBuildDate>Sun, 01 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Hey</title>
-      <link>/tags/hey/</link>
+      <title>Ai</title>
+      <link>/tags/ai/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/hey/</guid>
+      <guid>/tags/ai/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>Photo</title>
-      <link>/tags/photo/</link>
+      <title>Blog</title>
+      <link>/tags/blog/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/photo/</guid>
+      <guid>/tags/blog/</guid>
       <description></description>
       <content></content>
     </item>
     
     <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
+      <title>Chess</title>
+      <link>/tags/chess/</link>
       <pubDate>Sun, 01 Dec 2024 00:00:00 +0000</pubDate>
       
-      <guid>/tags/python/</guid>
-      <description></description>
-      <content></content>
-    </item>
-    
-    <item>
-      <title>Hola</title>
-      <link>/tags/hola/</link>
-      <pubDate>Fri, 29 Nov 2024 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hola/</guid>
+      <guid>/tags/chess/</guid>
       <description></description>
       <content></content>
     </item>

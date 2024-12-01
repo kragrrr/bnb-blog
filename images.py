@@ -23,7 +23,7 @@ for filename in os.listdir(posts_dir):
             # Prepare the Markdown-compatible link with %20 replacing spaces
             # markdown_image = f"![Image Description](/attachments/{image.replace(' ', '%20')})"
             # content = content.replace(f"![Image Description]({image})", markdown_image)
-            markdown_image = f"[Image Description](/images/{image.replace(' ', '%20')})"
+            markdown_image = f"[Image Description](/attachments/{image.replace(' ', '%20')})"
             content = content.replace(f"[[{image}]]", markdown_image)
             print(f"Processing image: {image}")
             

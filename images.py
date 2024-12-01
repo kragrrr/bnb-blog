@@ -20,8 +20,9 @@ for filename in os.listdir(posts_dir):
         
         # Step 3: Replace image links and ensure URLs are correctly formatted
         for image in images:
-            markdown_image = f"[[{image}]]"
-            content = content.replace(f"[[{image}]]", markdown_image)
+            # Replace image links
+            image_link = f"![{image}](/images/{image})"
+            content = content.replace(f"[[{image}]]", image_link)
             
             # Step 4: Copy the image to the Hugo static/images directory if it exists
             image_source = os.path.join(attachments_dir, image)

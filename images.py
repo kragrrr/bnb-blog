@@ -22,7 +22,7 @@ for filename in os.listdir(posts_dir):
         for image in images:
 
             # Replace the image link
-            content = content.replace(f"[[{image}]]", f"![{image}]({{< relref \"/images/{image}\" >}})")
+            content = content.replace(f"[[{image}]]", f"![{image}]({{< relref \"{image}\" >}})")
             
             # Step 4: Copy the image to the Hugo static/images directory if it exists
             image_source = os.path.join(attachments_dir, image)

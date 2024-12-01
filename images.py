@@ -21,7 +21,7 @@ for filename in os.listdir(posts_dir):
         # Step 3: Replace image links and ensure URLs are correctly formatted
         for image in images:
             # Prepare the Markdown-compatible link with %20 replacing spaces
-            markdown_image = f"[Image Description](/attachments/{image.replace(' ', '%20')})"
+            markdown_image = f"[Image Description](/images/{image.replace(' ', '%20')})"
             # Replace the original image link with the Markdown-compatible link
             content = content.replace(f"[[{image}]]", markdown_image)
             print(f"Processing image: {image}")

@@ -7,4 +7,4 @@ tags:
   - ai
   - blog
 ---
-![[Screenshot 2024-10-09 at 10.45.28AM.png]]
+![Screenshot 2024-10-09 at 10.45.28AM.png]({< relref "/images/Screenshot 2024-10-09 at 10.45.28AM.png" >})

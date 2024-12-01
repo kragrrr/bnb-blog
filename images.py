@@ -20,9 +20,9 @@ for filename in os.listdir(posts_dir):
         
         # Step 3: Replace image links and ensure URLs are correctly formatted
         for image in images:
-            # Replace image links
-            image_link = f"[{image}](/static/images/{image.replace(' ', '%20')})"
-            content = content.replace(f"[[{image}]]", image_link)
+
+            # Replace the image link
+            content = content.replace(f"[[{image}]]", f"![{image}]({{< relref \"/images/{image}\" >}})")
             
             # Step 4: Copy the image to the Hugo static/images directory if it exists
             image_source = os.path.join(attachments_dir, image)

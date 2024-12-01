@@ -37,13 +37,3 @@ for filename in os.listdir(posts_dir):
         
 
 print("Markdown files processed and images copied successfully.")
-# Step 6: Update image links to use the /static/images path for the website
-for image in images:
-    website_image = f"![Image Description](/static/images/{image.replace(' ', '%20')})"
-    content = content.replace(f"[Image Description](/attachments/{image.replace(' ', '%20')})", website_image)
-
-# Step 7: Write the final content back to the markdown file
-with open(filepath, "w", encoding="utf-8") as file:
-    file.write(content)
-
-print("Markdown files processed, images copied, and links updated successfully.")
